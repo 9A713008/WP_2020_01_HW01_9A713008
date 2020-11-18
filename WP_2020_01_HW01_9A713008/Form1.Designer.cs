@@ -44,7 +44,7 @@
             // tB2
             // 
             this.tB2.Font = new System.Drawing.Font("微軟正黑體", 15.75F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(136)));
-            this.tB2.Location = new System.Drawing.Point(47, 206);
+            this.tB2.Location = new System.Drawing.Point(47, 174);
             this.tB2.Name = "tB2";
             this.tB2.Size = new System.Drawing.Size(438, 35);
             this.tB2.TabIndex = 1;
